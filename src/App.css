@@ -1,0 +1,17 @@
+.container1 .box {
+  display : flex;
+ flex-direction : row;
+  
+}
+.container1 .box .box-cell.box1 {
+   
+  
+   text-align:justify;
+}
+.container1 .box .box-cell.box2 {
+   
+   text-align:justify
+}
+ion-icon .sort {
+   font-size: 64px;
+ }
