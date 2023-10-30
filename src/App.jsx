@@ -94,7 +94,7 @@ function App() {
                     <div className="card ">
                       <div className="card-body ">
                         <div className="card-title big h4  ">{info.name}</div>
-                        <div className="card-text ">Username: {info.username}</div>
+                        <div className="card-text ">UserName: {info.username}</div>
                         <div className="card-text ">Phone: {info.phone}</div>
                         <div className="card-text ">Email: {info.email}</div>
                       </div>
